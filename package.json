@@ -1,0 +1,12 @@
+{
+  "name": "grid-d3",
+  "version": "0.0.0",
+  "devDependencies": {
+    "beefy": "",
+	 "browserify": "",
+    "d3": "3.4.*"
+  },
+  "scripts": {
+    "start": "beefy --live index.js"
+  }
+}
