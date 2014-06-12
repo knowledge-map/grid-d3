@@ -117,6 +117,7 @@ function render2D(data, config) {
 module.exports = {
   AsTable: AsTable,
   AsLists: AsLists,
+  GridBase: GridBase,
   render2D: render2D,
   id: id,
 };
